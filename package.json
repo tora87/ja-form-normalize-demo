@@ -8,6 +8,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview"
   },
+  "packageManager": "pnpm@12.10.1",
   "dependencies": {
     "@tora87/ja-form-normalize": "^0.1.0"
   },
